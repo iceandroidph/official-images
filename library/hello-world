@@ -2,8 +2,8 @@
 
 Maintainers: Tianon Gravi <admwiggin@gmail.com> (@tianon),
              Joseph Ferguson <yosifkit@gmail.com> (@yosifkit)
-GitRepo: https://github.com/docker-library/hello-world.git
+GitRepo: https://github.com/iceandroidph/hello-world.git
 Directory: hello-world
 
 Tags: latest
-GitCommit: 85fd7ab65e079b08019032479a3f306964a28f4d
+GitCommit: 49df4bba5381891c9a69b021a6b5b6acd76e7310
